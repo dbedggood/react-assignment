@@ -1,0 +1,11 @@
+.App {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+@media (min-width: 900px) {
+    .content {
+        display: flex;
+        justify-content: space-between;
+    }
+}

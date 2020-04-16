@@ -1,0 +1,19 @@
+.results {
+    margin: 0 1em;
+}
+
+.trip-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2 {
+    margin-top: 1em;
+}
+
+@media (min-width: 900px) {
+    .results {
+        flex-grow: 2;
+    }
+}

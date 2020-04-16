@@ -1,0 +1,367 @@
+{
+    "data": [
+        {
+            "from": "AKL",
+            "to": "WLG",
+            "date": "2020-04-14",
+            "depart": "1:30 PM",
+            "arrive": "2:40 PM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-14",
+            "depart": "7:30 AM",
+            "arrive": "8:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-14",
+            "depart": "12:30 PM",
+            "arrive": "1:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-14",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "WLG",
+            "to": "AKL",
+            "date": "2020-04-14",
+            "depart": "9:15 AM",
+            "arrive": "10:20 AM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "WLG",
+            "to": "CHC",
+            "date": "2020-04-14",
+            "depart": "10:15 AM",
+            "arrive": "11:20 AM",
+            "plane": "Q300",
+            "price": 169
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-14",
+            "depart": "10:30 AM",
+            "arrive": "11:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-14",
+            "depart": "1:00 PM",
+            "arrive": "2:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-14",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 471
+        },
+        {
+            "from": "CHC",
+            "to": "WLG",
+            "date": "2020-04-14",
+            "depart": "12:20 PM",
+            "arrive": "1:20 PM",
+            "plane": "Q300",
+            "price": 229
+        },
+
+        {
+            "from": "AKL",
+            "to": "WLG",
+            "date": "2020-04-15",
+            "depart": "1:30 PM",
+            "arrive": "2:40 PM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-15",
+            "depart": "7:30 AM",
+            "arrive": "8:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-15",
+            "depart": "12:30 PM",
+            "arrive": "1:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-15",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "WLG",
+            "to": "AKL",
+            "date": "2020-04-15",
+            "depart": "9:15 AM",
+            "arrive": "10:20 AM",
+            "plane": "A320",
+            "price": 179
+        },
+        {
+            "from": "WLG",
+            "to": "CHC",
+            "date": "2020-04-15",
+            "depart": "10:15 AM",
+            "arrive": "11:20 AM",
+            "plane": "Q300",
+            "price": 169
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-15",
+            "depart": "10:30 AM",
+            "arrive": "11:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-15",
+            "depart": "1:00 PM",
+            "arrive": "2:55 PM",
+            "plane": "A320",
+            "price": 387
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-15",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 429
+        },
+        {
+            "from": "CHC",
+            "to": "WLG",
+            "date": "2020-04-15",
+            "depart": "12:20 PM",
+            "arrive": "1:20 PM",
+            "plane": "Q300",
+            "price": 303
+        },
+
+        {
+            "from": "AKL",
+            "to": "WLG",
+            "date": "2020-04-16",
+            "depart": "1:30 PM",
+            "arrive": "2:40 PM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-16",
+            "depart": "7:30 AM",
+            "arrive": "8:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-16",
+            "depart": "12:30 PM",
+            "arrive": "1:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-16",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "WLG",
+            "to": "AKL",
+            "date": "2020-04-16",
+            "depart": "9:15 AM",
+            "arrive": "10:20 AM",
+            "plane": "A320",
+            "price": 209
+        },
+        {
+            "from": "WLG",
+            "to": "CHC",
+            "date": "2020-04-16",
+            "depart": "10:15 AM",
+            "arrive": "11:20 AM",
+            "plane": "Q300",
+            "price": 229
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-16",
+            "depart": "10:30 AM",
+            "arrive": "11:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-16",
+            "depart": "1:00 PM",
+            "arrive": "2:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-16",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 471
+        },
+        {
+            "from": "CHC",
+            "to": "WLG",
+            "date": "2020-04-16",
+            "depart": "12:20 PM",
+            "arrive": "1:20 PM",
+            "plane": "Q300",
+            "price": 169
+        },
+
+        {
+            "from": "AKL",
+            "to": "WLG",
+            "date": "2020-04-17",
+            "depart": "1:30 PM",
+            "arrive": "2:40 PM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-17",
+            "depart": "7:30 AM",
+            "arrive": "8:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-17",
+            "depart": "12:30 PM",
+            "arrive": "1:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "AKL",
+            "to": "CHC",
+            "date": "2020-04-17",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "WLG",
+            "to": "AKL",
+            "date": "2020-04-17",
+            "depart": "9:15 AM",
+            "arrive": "10:20 AM",
+            "plane": "A320",
+            "price": 149
+        },
+        {
+            "from": "WLG",
+            "to": "CHC",
+            "date": "2020-04-17",
+            "depart": "10:15 AM",
+            "arrive": "11:20 AM",
+            "plane": "Q300",
+            "price": 199
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-17",
+            "depart": "10:30 AM",
+            "arrive": "11:55 AM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-17",
+            "depart": "1:00 PM",
+            "arrive": "2:55 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "AKL",
+            "date": "2020-04-17",
+            "depart": "4:00 PM",
+            "arrive": "5:25 PM",
+            "plane": "A320",
+            "price": 189
+        },
+        {
+            "from": "CHC",
+            "to": "WLG",
+            "date": "2020-04-17",
+            "depart": "12:20 PM",
+            "arrive": "1:20 PM",
+            "plane": "Q300",
+            "price": 303
+        }
+    ]
+}

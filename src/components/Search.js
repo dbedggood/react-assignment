@@ -121,7 +121,7 @@ const Search = (props) => {
                     max="1500"
                     list="tickmarks"
                     value={searchInput.maxPrice}
-                    onChange={handleInputChange}
+                    onInput={handleInputChange}
                 />
                 <datalist id="tickmarks">
                     <option>0</option>
